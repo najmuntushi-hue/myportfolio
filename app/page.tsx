@@ -481,17 +481,15 @@ export default function Home() {
           />
 
           <div className="contact-grid">
-            
-  <a
-  href="mailto:najmunnahartushi@gmail.com"
-  className="contact-item"
->
-  <span className="contact-icon">✉</span>
-  <span className="contact-label">Email</span>
-  <strong>najmunnahartushi@gmail.com</strong>
-</a>
+            <a
+    href="mailto:najmunnahartushi@gmail.com"
+    className="contact-card"
 
-
+  >
+    <span className="contact-icon">✉</span>
+    <span className="contact-label">Email</span>
+    <strong>najmunnahartushi@gmail.com</strong>
+  </a>
             <a className="contact-card" href="tel:+8801XXXXXXXXX">
               <span className="contact-icon">☎</span>
               <span className="contact-label">Phone</span>
