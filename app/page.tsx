@@ -399,16 +399,16 @@ export default function Home() {
       <p className="eyebrow">MY ACHIEVEMENT</p>
       <h2>My Certificate</h2>
     </div>
-
-    <div className="certificates-grid">
-      <div className="certificate-card">
-        <img
-          src="/certificates1.jpg"
-          alt="My Certificate"
-          className="certificate-image"
-        />
-      </div>
-    </div>
+    
+<div className="certificates-grid">
+  <div className="certificate-card">
+    <img
+      src="/Certificates1.jpg"
+      alt="My Certificate"
+      className="certificate-image"
+    />
+  </div>
+</div>
   </div>
 </section>
 
